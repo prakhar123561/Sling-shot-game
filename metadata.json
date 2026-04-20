@@ -1,0 +1,6 @@
+{
+  "name": "SlingShot Strike",
+  "description": "A physics-based slingshot game where you knock down structures with precision and force.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
